@@ -1,14 +1,12 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hey there! 😊 I'm a super enthusiastic full-stack developer from Kazakhstan. I absolutely love coding and everything
+related to computer science. It's my passion! I'm constantly on the lookout for ways to expand my knowledge and stay
+up-to-date with the ever-evolving tech world.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
@@ -16,21 +14,10 @@ This theme is self-documented \_ which means articles/posts in this theme can al
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Here are some of the awesome technologies I work with:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,aws,git,react,remix,nodejs,bun,mui,tailwind,nest,webpack&perline=7)](https://skillicons.dev)
 
-## Features
+## Tools i use
+Here are some of the awesome tools I use in work:
 
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+[![My Tools](https://skillicons.dev/icons?i=webstorm,neovim,git,figma,github,bash,notion,postman,vite&perline=7)](https://skillicons.dev)
