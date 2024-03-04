@@ -77,7 +77,7 @@ export default () => {
             }}
           >
             <span style={{ overflow: "hidden", fontWeight: "bold" }}>
-              {new URL(SITE.website).hostname}
+              Beglerov Baurzhan
             </span>
           </div>
         </div>
