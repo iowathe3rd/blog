@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Beglerov Baurzhan",
   desc: "Baurzhan Beglerov's blog, where he shares his experience and knowledge in computer science, fullstack development, and other interesting topics.",
   title: "Baurzhan Beglerov",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
